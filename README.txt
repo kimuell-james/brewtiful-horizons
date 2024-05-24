@@ -23,8 +23,7 @@ Instructions
 
 2. Interacting with the Table:
    - Hover over the items to see a highlighted effect.
-   - Click on an item to view more details.
-
+   
 Responsiveness Considerations
 
 This project is designed to be responsive to different screen sizes. Here are some key points to consider:
