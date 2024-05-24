@@ -13,7 +13,7 @@ Table of Contents
 
 Preview
 
-To see a live preview of the project, visit (https://example.com/brew-tiful-horizons).
+To see a live preview of the project, visit (https://kimuell-james.github.io/brewtiful-horizons/).
 
 Instructions
 
